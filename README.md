@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0EB77F&center=true&vCenter=true&width=435&lines=Luqman+Zafree;Security+Engineer;Detection+%26+Response;CTF+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&width=435&lines=Luqman+Zafree;Offensive+%26+Defensive+Security;Penetration+Testing;Incident+Response;CTF+Player" alt="Typing SVG" />
 
 </div>
 
@@ -8,34 +8,82 @@
 
 ### About Me
 
-Security-focused engineer building detection pipelines, hardening SOC environments, and breaking things in CTFs. Based in Malaysia. Currently exploring SIEM engineering, threat detection, and offensive security tooling.
+Red and blue team practitioner focused on penetration testing, Active Directory exploitation, and incident response. Based in Malaysia, I build hands-on labs to simulate attacks and sharpen detection workflows. I enjoy the full security lifecycle — break it, detect it, fix it.
 
--   Building: **SOC Home Lab** — Wazuh SIEM with Sysmon telemetry & MITRE ATT&CK mapping
--   Learning: detection engineering, kernel-mode internals, cloud security
--   Open to: security research collaboration & CTF teammates
+-   Red: **Penetration Testing** & **Active Directory Attacks**
+-   Blue: **Incident Response** & SIEM-based detection
+-   Lab: **SOC Home Lab** — Wazuh + Sysmon + MITRE ATT&CK (see [soc-home-lab](https://github.com/hydr-aa/soc-home-lab))
+-   Open to: CTF teammates, security research collaboration
 
 ---
 
 <div align="center">
 
-### Tech Stack
+### Red Team
 
 <p>
-  <img src="https://img.shields.io/badge/SIEM-Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white" />
-  <img src="https://img.shields.io/badge/Detection-Sysmon-4B275F?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framework-MITRE_ATT&CK-0A0A0A?style=for-the-badge&logo=mitre&logoColor=red" />
-  <img src="https://img.shields.io/badge/Scripting-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scripting-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Testing-Penetration-991B1B?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Attack-Active_Directory-7C3AED?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Platform-HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
   <img src="https://img.shields.io/badge/Scripting-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tools-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tools-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-Parrot_Security-33AADD?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
+
+### Blue Team
+
+<p>
+  <img src="https://img.shields.io/badge/Response-Incident-1E40AF?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/SIEM-Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/Monitoring-Sysmon-4B275F?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-MITRE_ATT&CK-0A0A0A?style=for-the-badge&logo=mitre&logoColor=red" />
+  <img src="https://img.shields.io/badge/Tools-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Platform-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
 </div>
+
+---
+
+### Certifications & Training
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4 align="center">Professional</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/CompTIA-Security%2B_(in_training)-D71B1B?style=flat-square&logo=comptia&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cisco-Networking_Academy-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h4 align="center">Security Blue Team</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Pathway-Junior_Analyst-00A6FB?style=flat-square" />
+        <img src="https://img.shields.io/badge/Domains-Digital_Forensics_|_OSINT_|_Threat_Hunting_|_Network_Analysis_|_Vulnerability_Management_|_Dark_Web_OPS_|_Penetration_Testing-1F2937?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary align="center"><b>CTF & Seminar Records</b></summary>
+  <br />
+  <table align="center">
+    <tr>
+      <td align="center"><b>CTF</b></td>
+      <td>BAHTERASIBER &bull; BTE CTF &bull; HACKNYX &bull; HTB Holmes CTF &bull; H7CTF &bull; OWASP</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Seminars</b></td>
+      <td>How Hackers Break into Networks &bull; Social Engineering & Phishing in the Age of AI</td>
+    </tr>
+  </table>
+</details>
 
 ---
 
@@ -76,11 +124,11 @@ Security-focused engineer building detection pipelines, hardening SOC environmen
 ### GitHub Stats
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hydr-aa&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=0EB77F&icon_color=0EB77F&text_color=C9D1D9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hydr-aa&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=0EB77F&text_color=C9D1D9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hydr-aa&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=DC2626&icon_color=DC2626&text_color=C9D1D9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hydr-aa&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=DC2626&text_color=C9D1D9" />
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hydr-aa&theme=dark&hide_border=true&background=0D1117&stroke=0EB77F&ring=0EB77F&fire=0EB77F&currStreakLabel=0EB77F&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=C9D1D9" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hydr-aa&theme=dark&hide_border=true&background=0D1117&stroke=DC2626&ring=DC2626&fire=DC2626&currStreakLabel=DC2626&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=C9D1D9" />
 
 </div>
 
@@ -94,20 +142,20 @@ Security-focused engineer building detection pipelines, hardening SOC environmen
   <a href="https://github.com/hydr-aa">
     <img src="https://img.shields.io/badge/GitHub-hydr--aa-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/luqman-zafree">
-    <img src="https://img.shields.io/badge/LinkedIn-luqman--zafree-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/luqmanzafree/">
+    <img src="https://img.shields.io/badge/LinkedIn-luqmanzafree-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:iluqmanana@gmail.com">
     <img src="https://img.shields.io/badge/Email-iluqmanana@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=hydr-aa&color=0EB77F&style=flat-square&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=hydr-aa&color=DC2626&style=flat-square&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
 <p align="center">
-  <i>~ trust but verify ~</i>
+  <i>~ break it, detect it, fix it ~</i>
 </p>
