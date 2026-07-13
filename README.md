@@ -86,8 +86,8 @@ Red and blue team practitioner focused on penetration testing, Active Directory 
 
 | CTF | Rank |
 |---|---|
-| GMI Kernel CTF 2025 | **Top 2** |
-| GMI BTE CTF 2025 | **Top 5** |
+| Kernel CTF 2025 | **Top 2** |
+| BTE CTF 2025 | **Top 5** |
 | Bahtera Siber 3108 | **Top 10** |
 | HackNyx | **Top 50** |
 | HTB Holmes CTF | **511th / 7,085 teams** |
