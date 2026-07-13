@@ -61,6 +61,7 @@ Red and blue team practitioner focused on penetration testing, Active Directory 
       <h4 align="center">Professional</h4>
       <p align="center">
         <img src="https://img.shields.io/badge/Cisco-Networking_Academy-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cyber_Warfare_Labs-AD_Red_Team_Specialist_(in_progress)-DC2626?style=flat-square&logo=redhat&logoColor=white" />
       </p>
     </td>
     <td width="50%">
@@ -81,7 +82,7 @@ Red and blue team practitioner focused on penetration testing, Active Directory 
 | GMI BTE CTF 2025 | **Top 5** | |
 | Bahtera Siber 3108 | **Top 10** | |
 | HackNyx | **Top 50** | |
-| HTB Holmes CTF | **511th / 7,085 teams** | Top 8% |
+| HTB Holmes CTF | **511th / 7,085 teams** | |
 | H7CTF | Participant | |
 | OWASP Liga CTF | Participant | |
 
