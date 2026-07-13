@@ -129,7 +129,7 @@ Red and blue team practitioner focused on penetration testing, Active Directory 
 ### GitHub Stats
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hydr-aa&show_icons=false&theme=dark&hide_border=true&bg_color=0D1117&title_color=DC2626&text_color=C9D1D9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hydr-aa&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=DC2626&icon_color=DC2626&text_color=C9D1D9" />
 </p>
 
 </div>
