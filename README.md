@@ -67,7 +67,12 @@ Red and blue team practitioner focused on penetration testing, Active Directory 
       <h4 align="center">Security Blue Team</h4>
       <p align="center">
         <img src="https://img.shields.io/badge/Pathway-Junior_Analyst-00A6FB?style=flat-square" />
-        <img src="https://img.shields.io/badge/Domains-Digital_Forensics_|_OSINT_|_Threat_Hunting_|_Network_Analysis_|_Vulnerability_Management_|_Dark_Web_OPS_|_Penetration_Testing-1F2937?style=flat-square" />
+        <br />
+        <sub>
+          Digital Forensics &bull; OSINT &bull; Threat Hunting<br />
+          Network Analysis &bull; Vulnerability Management<br />
+          Dark Web Ops &bull; Penetration Testing
+        </sub>
       </p>
     </td>
   </tr>
