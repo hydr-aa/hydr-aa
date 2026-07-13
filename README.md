@@ -33,7 +33,6 @@ Red and blue team practitioner focused on penetration testing, Active Directory 
   <img src="https://img.shields.io/badge/Shell-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/OS-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/OS-Parrot_Security-33AADD?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 ### Blue Team
@@ -131,10 +130,7 @@ Red and blue team practitioner focused on penetration testing, Active Directory 
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hydr-aa&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=DC2626&icon_color=DC2626&text_color=C9D1D9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hydr-aa&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=DC2626&text_color=C9D1D9" />
 </p>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hydr-aa&theme=dark&hide_border=true&background=0D1117&stroke=DC2626&ring=DC2626&fire=DC2626&currStreakLabel=DC2626&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=C9D1D9" />
 
 </div>
 
