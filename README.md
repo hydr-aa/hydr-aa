@@ -75,15 +75,15 @@ Red and blue team practitioner focused on penetration testing, Active Directory 
 
 ### CTF Rankings
 
-| CTF | Rank | |
-|---|---|---|
-| GMI Kernel CTF 2025 | **Top 2** | |
-| GMI BTE CTF 2025 | **Top 5** | |
-| Bahtera Siber 3108 | **Top 10** | |
-| HackNyx | **Top 50** | |
-| HTB Holmes CTF | **511th / 7,085 teams** | |
-| H7CTF | Participant | |
-| OWASP Liga CTF | Participant | |
+| CTF | Rank |
+|---|---|
+| GMI Kernel CTF 2025 | **Top 2** |
+| GMI BTE CTF 2025 | **Top 5** |
+| Bahtera Siber 3108 | **Top 10** |
+| HackNyx | **Top 50** |
+| HTB Holmes CTF | **511th / 7,085 teams** |
+| H7CTF | Participant |
+| OWASP Liga CTF | Participant |
 
 ### Seminars
 
@@ -129,7 +129,7 @@ Red and blue team practitioner focused on penetration testing, Active Directory 
 ### GitHub Stats
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hydr-aa&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=DC2626&icon_color=DC2626&text_color=C9D1D9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hydr-aa&show_icons=false&theme=dark&hide_border=true&bg_color=0D1117&title_color=DC2626&text_color=C9D1D9" />
 </p>
 
 </div>
