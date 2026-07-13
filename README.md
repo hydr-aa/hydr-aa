@@ -60,7 +60,6 @@ Red and blue team practitioner focused on penetration testing, Active Directory 
     <td width="50%">
       <h4 align="center">Professional</h4>
       <p align="center">
-        <img src="https://img.shields.io/badge/CompTIA-Security%2B_(in_training)-D71B1B?style=flat-square&logo=comptia&logoColor=white" />
         <img src="https://img.shields.io/badge/Cisco-Networking_Academy-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
       </p>
     </td>
@@ -74,20 +73,22 @@ Red and blue team practitioner focused on penetration testing, Active Directory 
   </tr>
 </table>
 
-<details>
-  <summary align="center"><b>CTF & Seminar Records</b></summary>
-  <br />
-  <table align="center">
-    <tr>
-      <td align="center"><b>CTF</b></td>
-      <td>BAHTERASIBER &bull; BTE CTF &bull; HACKNYX &bull; HTB Holmes CTF &bull; H7CTF &bull; OWASP</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Seminars</b></td>
-      <td>How Hackers Break into Networks &bull; Social Engineering & Phishing in the Age of AI</td>
-    </tr>
-  </table>
-</details>
+### CTF Rankings
+
+| CTF | Rank | |
+|---|---|---|
+| GMI Kernel CTF 2025 | **Top 2** | |
+| GMI BTE CTF 2025 | **Top 5** | |
+| Bahtera Siber 3108 | **Top 10** | |
+| HackNyx | **Top 50** | |
+| HTB Holmes CTF | **511th / 7,085 teams** | Top 8% |
+| H7CTF | Participant | |
+| OWASP Liga CTF | Participant | |
+
+### Seminars
+
+- How Hackers Break into Networks
+- Social Engineering & Phishing in the Age of AI
 
 ---
 
