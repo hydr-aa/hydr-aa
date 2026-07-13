@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&width=435&lines=Luqman+Zafree;Offensive+%26+Defensive+Security;Penetration+Testing;Incident+Response;CTF+Player" alt="Typing SVG" />
+# Luqman Zafree &nbsp;·&nbsp; `Hydra`
+
+### Offensive & Defensive Security &nbsp;|&nbsp; Penetration Testing &nbsp;|&nbsp; Incident Response
+
+<img src="https://img.shields.io/badge/CTF_Alias-Hydra-DC2626?style=for-the-badge&logo=tryhackme&logoColor=white" />
 
 </div>
 
