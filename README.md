@@ -12,7 +12,7 @@
 
 ### About Me
 
-Red and blue team practitioner focused on penetration testing, Active Directory exploitation, and incident response. Based in Malaysia, I build hands-on labs to simulate attacks and sharpen detection workflows. I enjoy the full security lifecycle — I do this for fun and to learn new things.
+Red and blue team practitioner focused on penetration testing, Active Directory exploitation, and incident response. Based in Malaysia, I build hands-on labs to simulate attacks and sharpen detection workflows. I enjoy the full security lifecycle. I do this for fun and to learn new things.
 
 -   Red: **Penetration Testing** & **Active Directory Attacks**
 -   Blue: **Incident Response** & SIEM-based detection
